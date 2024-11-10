@@ -18,11 +18,13 @@ Eu sou o Jonatham Carvalho, sou um programador front end, atualmente estou apren
   ##Conecte comigo:
   
 <p> 
-  <a href="https://www.linkedin.com/in/jonatham-carvalho-b21ab61b0/"> </a>
+  <a href="https://www.linkedin.com/in/jonatham-carvalho-b21ab61b0/"> 
   <img align="left" alt="LinkIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-  <a href="https://mail.google.com/mail/u/1/#inbox"> </a>
+  <a href="https://mail.google.com/mail/u/1/#inbox"> 
   <img align="left" alt="Gmail" widht="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   </a>
 </p>
 
 <br>
