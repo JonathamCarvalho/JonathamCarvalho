@@ -22,7 +22,7 @@ Eu sou o Jonatham Carvalho, sou um programador front end, atualmente estou apren
   <img align="left" alt="LinkIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="jonatham.carvalho@gmail.com"> 
+  <a href="mailto:jonatham.carvalho@gmail.com">
   <img align="left" alt="Gmail" widht="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
 </p>
