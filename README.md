@@ -19,13 +19,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
- ## 📈 Estatísticas
- 
-  <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonathamCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathamCarvalho&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
   ## 🤝 Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatham-carvalho-b21ab61b0/)
